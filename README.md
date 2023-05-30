@@ -1,2 +1,2 @@
-# Anglar
+# Angular
 Proyecto Angular - Estudio
